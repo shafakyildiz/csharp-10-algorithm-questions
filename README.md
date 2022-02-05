@@ -1,4 +1,4 @@
-# c--10-algorithm-questions
+# csharp-10-algorithm-questions
 
 Soru 1
 
