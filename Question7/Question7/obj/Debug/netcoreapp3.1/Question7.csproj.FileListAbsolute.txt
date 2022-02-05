@@ -1,0 +1,14 @@
+C:\Users\safak\source\repos\Question7\Question7\bin\Debug\netcoreapp3.1\Question7.exe
+C:\Users\safak\source\repos\Question7\Question7\bin\Debug\netcoreapp3.1\Question7.deps.json
+C:\Users\safak\source\repos\Question7\Question7\bin\Debug\netcoreapp3.1\Question7.runtimeconfig.json
+C:\Users\safak\source\repos\Question7\Question7\bin\Debug\netcoreapp3.1\Question7.runtimeconfig.dev.json
+C:\Users\safak\source\repos\Question7\Question7\bin\Debug\netcoreapp3.1\Question7.dll
+C:\Users\safak\source\repos\Question7\Question7\bin\Debug\netcoreapp3.1\Question7.pdb
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.csproj.AssemblyReference.cache
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.AssemblyInfoInputs.cache
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.AssemblyInfo.cs
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.csproj.CoreCompileInputs.cache
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.dll
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.pdb
+C:\Users\safak\source\repos\Question7\Question7\obj\Debug\netcoreapp3.1\Question7.genruntimeconfig.cache
