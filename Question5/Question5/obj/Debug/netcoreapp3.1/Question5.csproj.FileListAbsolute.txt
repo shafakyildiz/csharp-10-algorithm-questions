@@ -1,0 +1,14 @@
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.csproj.AssemblyReference.cache
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.AssemblyInfoInputs.cache
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.AssemblyInfo.cs
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.csproj.CoreCompileInputs.cache
+C:\Users\safak\source\repos\Question5\Question5\bin\Debug\netcoreapp3.1\Question5.exe
+C:\Users\safak\source\repos\Question5\Question5\bin\Debug\netcoreapp3.1\Question5.deps.json
+C:\Users\safak\source\repos\Question5\Question5\bin\Debug\netcoreapp3.1\Question5.runtimeconfig.json
+C:\Users\safak\source\repos\Question5\Question5\bin\Debug\netcoreapp3.1\Question5.runtimeconfig.dev.json
+C:\Users\safak\source\repos\Question5\Question5\bin\Debug\netcoreapp3.1\Question5.dll
+C:\Users\safak\source\repos\Question5\Question5\bin\Debug\netcoreapp3.1\Question5.pdb
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.dll
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.pdb
+C:\Users\safak\source\repos\Question5\Question5\obj\Debug\netcoreapp3.1\Question5.genruntimeconfig.cache

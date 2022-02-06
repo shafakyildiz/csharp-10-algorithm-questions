@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFN6DmOilZW8Vxm48ymPc/FWU57LtfjMgRpmahDGksxY1Nz9BwPLnUIs2vThGX5WUZBkmkwK5zOuJomCPFLSKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\safak\\source\\repos\\Question5\\Question5\\Question5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\safak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
